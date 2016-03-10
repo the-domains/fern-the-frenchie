@@ -1,7 +1,7 @@
 name: Fern The Frenchie
 favicon: null
-layout_spectrum: 0.5022564970422536
-typography_spectrum: 0.5418262961320579
+layout_spectrum: 0.97078
+typography_spectrum: 0.48704
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8962223429698497
+    - '#160702'
+    - '#feb859'
+    - '#b15411'
+    - '#87380f'
+    - '#fe6623'
+  brandStrength: 0.25
   lightness: 0.5912287752144039
   saturation: 0.5588697521016002
-  rhythmicContrast: 0.3672703788615763
+  rhythmicContrast: 0.25
 purpose: []
