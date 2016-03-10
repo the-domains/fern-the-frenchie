@@ -1,3 +1,4 @@
+favicon: null
 name: Fern The Frenchie
 opengraph:
   image: null
@@ -9,32 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3870968
   brandStrength: 0.6792115
-  lightness: 0.8602151
+  rhythmicContrast: 0.6379929
   brandColors:
     - '#0F0B0E'
     - '#CFC7C5'
     - '#383130'
     - '#A39B99'
     - '#884C4B'
-  rhythmicContrast: 0.6379929
+  lightness: 0.8602151
 typography_spectrum: 0.48704
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.1003584
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.1164875
