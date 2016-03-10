@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fern The Frenchie]]></title>
         <description><![CDATA[Fern The Frenchie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fern-the-frenchie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:58:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 18:13:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fern-the-frenchie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04b63098-727c-43e8-80c9-08a5efe1195b.jpg">]]></description>
-            <link>undefinedfern-is-probably-the-cutest-french-bulldog-ever/index.html</link>
+            <link>https://thegrid.ai/fern-the-frenchie/fern-is-probably-the-cutest-french-bulldog-ever/index.html</link>
             <guid isPermaLink="false">ab839c21-897a-48f4-8314-334b511ffce9</guid>
-            <pubDate>Thu, 10 Mar 2016 17:57:52 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 18:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
