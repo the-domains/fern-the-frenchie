@@ -1,28 +1,40 @@
-name: Fern The Frenchie
-favicon: null
-layout_spectrum: 0.97078
-typography_spectrum: 0.48704
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.1164875
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3870968
+  brandStrength: 0.25
+  lightness: 0.8602151
   brandColors:
     - '#160702'
     - '#feb859'
     - '#b15411'
     - '#87380f'
     - '#fe6623'
-  brandStrength: 0.25
-  lightness: 0.5912287752144039
-  saturation: 0.5588697521016002
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.6379929
+typography_spectrum: 0.48704
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Fern The Frenchie
