@@ -4,7 +4,7 @@
         <description><![CDATA[Fern The Frenchie]]></description>
         <link>https://thegrid.ai/fern-the-frenchie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 18:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 20:02:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fern-the-frenchie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/fern-the-frenchie/she-pretty-much-sleeps-every-day/index.html</link>
             <guid isPermaLink="false">1aed1e18-c85f-4e01-b648-7e86c3145bd9</guid>
             <pubDate>Thu, 10 Mar 2016 18:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04b63098-727c-43e8-80c9-08a5efe1195b.jpg">]]></description>
-            <link>https://thegrid.ai/fern-the-frenchie/fern-is-probably-the-cutest-french-bulldog-ever/index.html</link>
-            <guid isPermaLink="false">ab839c21-897a-48f4-8314-334b511ffce9</guid>
-            <pubDate>Thu, 10 Mar 2016 18:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
